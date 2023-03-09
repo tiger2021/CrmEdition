@@ -9,7 +9,24 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab8bd131-67aa-475d-8ea6-fbf124c1c115" name="Default Changelist" comment="" />
+    <list default="true" id="ab8bd131-67aa-475d-8ea6-fbf124c1c115" name="Default Changelist" comment="Default Changelist">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crm/src/main/java/com/bjpowernode/crm/commons/domain/ReturnObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crm/src/main/java/com/bjpowernode/crm/settings/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crm/src/main/java/com/bjpowernode/crm/settings/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crm/src/main/java/com/bjpowernode/crm/workbench/web/controller/WorkBenchIndexController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crm/crm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/crm/crm.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crm/src/main/java/com/bjpowernode/crm/settings/mapper/UserMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/crm/src/main/java/com/bjpowernode/crm/settings/mapper/UserMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crm/src/main/java/com/bjpowernode/crm/settings/mapper/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/crm/src/main/java/com/bjpowernode/crm/settings/mapper/UserMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crm/src/main/java/com/bjpowernode/crm/settings/web/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/crm/src/main/java/com/bjpowernode/crm/settings/web/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crm/src/main/resources/applicationContext-datasource.xml" beforeDir="false" afterPath="$PROJECT_DIR$/crm/src/main/resources/applicationContext-datasource.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crm/src/main/resources/applicationContext-mvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/crm/src/main/resources/applicationContext-mvc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crm/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/crm/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crm/src/main/webapp/WEB-INF/pages/settings/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/crm/src/main/webapp/WEB-INF/pages/settings/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crm/src/main/webapp/WEB-INF/pages/settings/qx/user/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/crm/src/main/webapp/WEB-INF/pages/settings/qx/user/login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crm/src/main/webapp/WEB-INF/pages/workbench/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/crm/src/main/webapp/WEB-INF/pages/workbench/index.jsp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,8 +35,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Jsp File" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -40,6 +57,37 @@
       <find>create-possibility</find>
       <find>../../</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "history": [
+    {
+      "state": "OPEN",
+      "author": "tiger2021"
+    },
+    {
+      "state": "OPEN",
+      "assignee": "tiger2021",
+      "reviewState": "NO_REVIEW",
+      "author": "tiger2021"
+    }
+  ],
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "tiger2021",
+    "reviewState": "NO_REVIEW",
+    "author": "tiger2021"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="8db4d60d-514c-4a15-9c74-067644ddeef1" />
+        <option name="url" value="https://github.com/tiger2021/crm-project.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -100,7 +148,7 @@
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
-    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_WARNINGS" value="true" />
     <option name="FILTER_INFO" value="true" />
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
@@ -153,6 +201,9 @@
     <option name="height" value="788" />
   </component>
   <component name="ProjectId" id="2Mjsqd5NDMXRpnT1BZytMk8nOv5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -407,9 +458,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "1.8",
-    "last_opened_file_path": "F:/Study/Project/crm-mybatis-generator1/src/main/resources",
+    "last_opened_file_path": "F:/BaiduNetdiskDownload/javaStudy/CRM/项目源码/crm-project",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -438,7 +490,9 @@
   </component>
   <component name="RunManager">
     <configuration name="Tomcat 9.0.0.M10" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.0.M10" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
-      <option name="UPDATING_POLICY" value="restart-server" />
+      <option name="BROWSER_ID" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
       <deployment>
         <artifact name="crm:war exploded">
           <settings>
@@ -628,7 +682,7 @@
       <workItem from="1605334239454" duration="7185000" />
       <workItem from="1678292521054" duration="3229000" />
       <workItem from="1678298402625" duration="281000" />
-      <workItem from="1678298699874" duration="510000" />
+      <workItem from="1678298699874" duration="16729000" />
     </task>
     <servers />
   </component>
@@ -710,6 +764,28 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/crm/src/main/java/com/bjpowernode/crm/workbench/web/controller/WorkBenchIndexController.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
